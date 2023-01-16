@@ -1,0 +1,26 @@
+Privacy Policy for Funk High Speed Door
+Privacy Policy for Funk High Speed Door
+This privacy policy applies to the Funk High Speed Door mobile application (the "App"). The App is owned and operated by Funk Tubular Motor.
+
+Collection and Use of Personal Information
+The App collects the following personal information from users:
+
+Bluetooth device information, when the App establishes a connection to a device via Bluetooth.
+This information is used to provide and improve the App's functionality, including connecting to and communicating with other devices via Bluetooth.
+
+Sharing of Personal Information
+The App does not share personal information with third parties, except as follows:
+
+With the user's consent, to share information with other devices via Bluetooth.
+As required by law or to comply with legal process.
+To protect the rights, property, or safety of Funk Tubular Motor, the App, or its users.
+Security
+The App takes reasonable measures to protect the personal information it collects from unauthorized access, use, or disclosure. However, no method of transmission over the internet, or method of electronic storage, is 100% secure. Therefore, Funk Tubular Motor cannot guarantee its absolute security.
+
+Changes to this Privacy Policy
+This privacy policy may be updated from time to time for any reason. You are advised to consult this privacy policy regularly for any changes, as continued use is deemed approval of all changes.
+
+Contact Us
+If you have any questions or concerns about this privacy policy, please contact Funk Tubular Motor at info@funktubularmotors.com.
+
+Effective date: 16-Jan-2023
